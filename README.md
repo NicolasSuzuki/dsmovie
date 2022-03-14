@@ -15,3 +15,4 @@ Resultado: https://suzuki-dsmovie.netlify.app/
 - Busca de filmes por nome
 - Login
 - Tela de filmes já avaliados por cada usuário 
+- Loading ao entrar na pgina
